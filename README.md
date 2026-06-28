@@ -5,7 +5,7 @@ Ollama AI robot assistant for Raspberry Pi. One command does everything.
 ## Install on Raspberry Pi
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PiLlama.git
+git clone https://github.com/BlackWarrio/PiLlama.git
 cd PiLlama
 bash install.sh
 ```
